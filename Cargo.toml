@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "example_app",
+    "example_enums",
+    "example_maths"
+]
